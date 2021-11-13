@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Styling",
+    "slug": "Styling",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Styling"
+}
